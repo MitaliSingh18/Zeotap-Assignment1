@@ -54,8 +54,8 @@ This project is a web application that mimics the core functionalities of **Goog
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd google-sheets-clone
+   git clone https://github.com/MitaliSingh18/Zeotap-Assignment1.git
+   cd Zeotap-Assignmant1
 
 2. **Install Dependencies**:
    ```bash
